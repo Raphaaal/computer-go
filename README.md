@@ -7,6 +7,7 @@ Collaborators:
 - COHEN Marc
 
 ------------
+------------
 
 French version:
 
@@ -14,6 +15,8 @@ French version:
 
 
 Nous avons parcouru les articles suggérés (Cazenave, 2018, Cazenave et al., 2020, Schrittwieser et al., 2019) et effectué des recherches sur l’état de l’art du computer Go. Nous avons notamment étudié l’architecture du réseau de neurones d’AlphaGo (cf. Fig. 1). 
+
+![Captura de pantalla 2020-05-31 a las 12 59 06](https://user-images.githubusercontent.com/28358902/83350754-8d2c1e00-a33e-11ea-84dc-7dff32865325.png)
 
 Ensuite nous avons développé différents modèles basés sur des architectures issues de ces recherches, que nous avons comparés et progressivement soumis dans un tournoi de computer Go. Les entraînements de ces modèles ont été effectués sur les données du programme de Facebook ELF OpenGo et ces entraînements ont été ajustés tout au long du tournoi.
 
